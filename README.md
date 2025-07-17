@@ -17,5 +17,7 @@ A Streamlit web app for predicting salaries based on years of experience using S
 - NumPy
 
 ## ▶️ How to Run
+
+```bash
 pip install -r requirements.txt
-streamlit run app.py  
+streamlit run app.py
