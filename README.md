@@ -1,6 +1,9 @@
 # 💼 Salary Predictor
 A Streamlit web app for predicting salaries based on years of experience using Simple Linear Regression.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sony-salary-predictor.streamlit.app/)
+
+
 ## 🚀 Features
 - Upload your own CSV file (`YearsExperience`, `Salary`)
 - Visualize data with a scatter plot
@@ -21,3 +24,7 @@ A Streamlit web app for predicting salaries based on years of experience using S
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+## 🚀 Live Demo
+
+You can try the Salary Predictor app live here: [https://sony-salary-predictor.streamlit.app/](https://sony-salary-predictor.streamlit.app/)
