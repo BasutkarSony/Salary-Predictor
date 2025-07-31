@@ -24,5 +24,5 @@ streamlit run app.py
 ```
 ## 🚀 Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-blog-generator-app.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sony-salary-predictor.streamlit.app/)
 
